@@ -1,0 +1,23 @@
+{
+  "name": "react_example",
+  "description": "a react examples colections",
+  "main": "index.js",
+  "authors": [
+    "ransixi"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Jocs/React_learning",
+  "moduleType": [
+    "es6"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
